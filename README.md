@@ -1,5 +1,8 @@
 # nodejs-ipv6calc
 
+## Install
+
+    npm install ipv6calc
 
 ## Example
 
