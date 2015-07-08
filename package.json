@@ -1,6 +1,6 @@
 {
   "name": "ipv6calc",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "ipv6calc",
   "homepage": "https://github.com/genofire/nodejs-ipv6calc",
   "author": "Martin Geno <geno@fireorbit.de>",
