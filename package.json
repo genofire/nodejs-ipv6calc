@@ -1,0 +1,20 @@
+{
+  "name": "ipv6calc",
+  "version": "0.0.4",
+  "description": "ipv6calc",
+  "homepage": "https://github.com/sebmck/ping-wrapper",
+  "author": "Martin Geno <geno@fireorbit.de>",
+  "keywords": [
+    "ipv6",
+    "mac",
+    "ipv6calc",
+    "calc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/genofire/nodejs-ipv6calc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/genofire/nodejs-ipv6calc/issues"
+  }
+}
